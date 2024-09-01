@@ -52,5 +52,7 @@ The key changes I have made include better formatting, use of best practices, an
 These improvements have been to made the codebase cleaner, more maintainable and usage of Laravel and PHP best practices. There are still a couple of things I would like to do in the code for the improvements:
 
 - Using Laravel's `Mailable` for email functionality
-- Implementing Cache to enhance the application performance
+- Implementing `Cache` to enhance the application performance
+- Use `Enums` to manage hard-coded values like statuses etc.
+- Implement `API Resources` for the responses
 - Using all the key improvements listed above in the remaining code.
